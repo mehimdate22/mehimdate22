@@ -6,13 +6,11 @@
 
 ## 🙋‍♂️ About Me
 
-- 🔭 I’m currently working on 
-
-- 🌱 Je suis en train d'apprendre **Docker & K8S**
+- 🔭 Je travaille actuellement sur le Devops et l'optimisation des systèmes.
 
 - 👨‍💻 Tous mes projets sont disponibles à **[My Portfolio](https://github.com/mehimdate22)**
 
-- 📫 vous pouvez me joindre par email **mehimdate22@gmail.com**
+- 📫 vous pouvez me joindre par email **mehimdate@outloook.com**
 
 - ⚡ Fun fact **ON RÉCOLTE CE QU'ON SÈME**
 
